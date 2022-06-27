@@ -80,7 +80,7 @@ pymysql.install_as_MySQLdb()
 DATABASES = {
         'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'APIserver',
+        'NAME': 'capstoneAPI',
         'USER': 'root',
         'PASSWORD': '1234',
         'HOST': 'localhost',
